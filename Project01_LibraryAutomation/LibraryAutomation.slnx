@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibraryAutomation.BLL/LibraryAutomation.BLL.csproj" Id="1878a1c3-50be-4cf5-a7df-4abb39c42175" />
+  <Project Path="LibraryAutomation.DAL/LibraryAutomation.DAL.csproj" Id="cdc7bb5f-b063-4510-8290-473cab2611f3" />
+  <Project Path="LibraryAutomation.Entity/LibraryAutomation.Entity.csproj" Id="19686de2-34c3-4e7b-bbe1-d572ae122aeb" />
+  <Project Path="LibraryAutomation/LibraryAutomation.csproj" Id="29b3cd21-1166-4205-8edc-dd828b2b1e8c" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\bin\Debug\FitFlexAutomation.exe.config
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\bin\Debug\FitFlexAutomation.exe
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\bin\Debug\FitFlexAutomation.pdb
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.csproj.AssemblyReference.cache
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.Form1.resources
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.FormCheckIn.resources
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.Properties.Resources.resources
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.csproj.GenerateResource.cache
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.csproj.CoreCompileInputs.cache
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.exe
+C:\Users\BEKOO\source\repos\FitFlexAutomation\FitFlexAutomation\obj\Debug\FitFlexAutomation.pdb
